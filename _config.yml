@@ -24,7 +24,7 @@ author:
   avatar           : "profile.png"
   name             : "Niloy Kumar Kundu"
   pronouns         : # example: "she/her"  
-  bio              : "Junior Machine Learning Engineer @ NDL"
+  bio              : "Junior Machine Learning Engineer at Nodes Digital Limited"
   location         : "Dhaka, Bangladesh"
   # employer         : "Red Brick University"
   uri              : # URL
@@ -48,7 +48,7 @@ author:
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
   # Social media
-  bluesky          : "bsky.app" # Replace this with you Bluesky username
+  # bluesky          : "bsky.app" # Replace this with you Bluesky username
   facebook         : # Username
   flickr           : # Username
   foursquare       : # Username
