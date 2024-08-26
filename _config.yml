@@ -21,7 +21,7 @@ repository               : "NiloyKumarKundu/NiloyKumarKundu.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "profile.jpg"
   name             : "Niloy Kumar Kundu"
   pronouns         : # example: "she/her"  
   bio              : "Junior Machine Learning Engineer at Nodes Digital Limited"
