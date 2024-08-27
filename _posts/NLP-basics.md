@@ -9,3 +9,4 @@ tags:
 ---
 
 # Natural Language Processing - Basics
+This is the first post in the series.
