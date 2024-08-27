@@ -1,7 +1,7 @@
 ---
 title: 'A Comprehensive Roadmap to Mastering Natural Language Processing'
 date: 2024-08-27
-permalink: /posts/2024/08/nlp/nlp-roadmap/
+permalink: /posts/2024/08/nlp-roadmap/
 tags:
   - NLP
 ---
