@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Academic Pages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "👋🏼 Hello there, I’m Niloy!"
 author_profile: true
 redirect_from: 
   - /about/
@@ -8,7 +8,7 @@ redirect_from:
 ---
 
 ![Right Images](https://NiloyKumarKundu.github.io\images\right_image.jpg){: .align-right width="300px"}
-### 👋🏼 Hello there, I’m Niloy!
+
 👨🏻‍💻 I completed my graduation from United International University in the department of Commputer Science and Engineering.
 
 🔬 My research interests are in Computer Vision and Natural Language Processing.
