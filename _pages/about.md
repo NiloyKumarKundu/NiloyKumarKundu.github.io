@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-![Right Images](https://NiloyKumarKundu.github.io\images\right_image.jpg){: .align-right width="300px"}
+![Right Images](/images\right_image.jpg){: .align-right width="300px"}
 
 👨🏻‍💻 I completed my graduation from United International University in the department of Commputer Science and Engineering.
 
@@ -16,6 +16,48 @@ redirect_from:
 📚 Currently, I am working as a Junior Machine Learning Engineer at Nodes Digital Limited.
 
 📽️ I am also interested in assisting others on their path in the world of Machine Learning and academia.
+
+
+# 👨🏻‍🔬 Experiences
+#### Junior Machine Learning Engineer
+##### [Nodes Digital Limited](https://nodesdigitallimited.com) [2023-Present]
+- Conducted literature reviews to understand foundational concepts and identify the role of machine
+learning in the project.
+- Collected real-world images and performed manual annotation for computer vision tasks.
+- Performed image preprocessing and data augmentation to enhance the dataset.
+
+
+
+#### Research Assistant
+##### [Nodes Digital Limited](https://nodesdigitallimited.com) [2023-2024]
+- Conducted literature reviews to understand foundational concepts and identify the role of machine
+learning in the project.
+- Collected real-world images and performed manual annotation for computer vision tasks.
+- Performed image preprocessing and data augmentation to enhance the dataset.
+
+
+#### Undergraduate Assistant
+##### [United International University](https://uiu.ac.bd)
+- Conducted literature reviews to understand foundational concepts and identify the role of machine
+learning in the project.
+- Collected real-world images and performed manual annotation for computer vision tasks.
+- Performed image preprocessing and data augmentation to enhance the dataset.
+
+
+#### Grader
+##### [United International University](https://uiu.ac.bd)
+- Conducted literature reviews to understand foundational concepts and identify the role of machine
+learning in the project.
+- Collected real-world images and performed manual annotation for computer vision tasks.
+- Performed image preprocessing and data augmentation to enhance the dataset.
+
+
+#### Instructor
+##### [UIU App Forum](https://uiu.ac.bd)
+- Conducted literature reviews to understand foundational concepts and identify the role of machine
+learning in the project.
+- Collected real-world images and performed manual annotation for computer vision tasks.
+- Performed image preprocessing and data augmentation to enhance the dataset.
 
 
 <!-- 
