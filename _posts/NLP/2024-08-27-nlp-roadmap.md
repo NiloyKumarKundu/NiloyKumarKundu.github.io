@@ -1,13 +1,10 @@
 ---
 title: 'A Comprehensive Roadmap to Mastering Natural Language Processing'
 date: 2024-08-27
-permalink: /posts/2024/08/nlp-roadmap/
+permalink: /posts/2024/08/nlp/nlp-roadmap/
 tags:
   - NLP
 ---
-
-
-# A Comprehensive Roadmap to Mastering Natural Language Processing
 
 Natural Language Processing (NLP) is a rapidly evolving field with a broad spectrum of techniques and technologies. Whether you're a beginner or looking to deepen your knowledge, this roadmap will guide you through essential stages of NLP. Here’s a structured path to mastering NLP:
 
