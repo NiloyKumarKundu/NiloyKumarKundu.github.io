@@ -1,5 +1,5 @@
 ---
-title: 'Tokenization in NLP'
+title: '1. Tokenization in NLP'
 date: 2024-08-27
 permalink: /posts/2024/08/tokenization/
 tags:
@@ -32,7 +32,7 @@ Tokenization is the process of dividing a text into smaller units, such as words
    import nltk
    nltk.download()
    ```
-   This will open a window where you can select and download the necessary resources.
+   This will open a window where you can select and download the necessary resources. You can select all packages that you need.
 
 ## Sentence Tokenization
 Sentence tokenization involves splitting a paragraph into individual sentences. Here's how you can perform sentence tokenization with NLTK:
