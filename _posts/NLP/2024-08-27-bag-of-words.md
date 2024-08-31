@@ -1,5 +1,5 @@
 ---
-title: '3/. Bag of Words in NLP'
+title: '3\. Bag of Words in NLP'
 date: 2024-08-27
 permalink: /posts/2024/08/bag-of-words/
 tags:
