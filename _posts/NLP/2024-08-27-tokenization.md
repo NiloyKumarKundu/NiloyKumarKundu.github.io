@@ -1,5 +1,5 @@
 ---
-title: '1. Tokenization in NLP'
+title: '1/. Tokenization in NLP'
 date: 2024-08-27
 permalink: /posts/2024/08/tokenization/
 tags:

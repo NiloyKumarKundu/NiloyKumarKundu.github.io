@@ -1,5 +1,5 @@
 ---
-title: '2. Stemming and Lemmatization in NLP'
+title: '2/. Stemming and Lemmatization in NLP'
 date: 2024-08-27  
 permalink: /posts/2024/08/stemming-and-lemmatization/
 tags:

@@ -1,5 +1,5 @@
 ---
-title: '6. Recurrent Neural Network'
+title: '6/. Recurrent Neural Network'
 date: 2024-08-27
 permalink: /posts/2024/08/recurrent-neural-network/
 tags:
