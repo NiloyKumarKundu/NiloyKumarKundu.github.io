@@ -6,7 +6,7 @@ tags:
   - NLP
 ---
 
-### Why Apply Backpropagation?
+## Why Apply Backpropagation?
 
 Backpropagation through time (BPTT) is the method used to compute these weight adjustments. BPTT calculates how the loss function changes with respect to each weight by applying the chain rule to propagate the gradients backward through the network's time steps.
 
@@ -16,7 +16,7 @@ After performing forward propagation in an RNN, we obtain an output \\(\hat{y}_i
 
 where \\(\hat{y}_i\\) is the predicted output and \\(y\\) is the true value. The goal of training is to minimize this loss to make the model’s predictions as accurate as possible. To achieve this, we need to adjust the weights of the network.
 
-### How Backpropagation Through Time Works
+## How Backpropagation Through Time Works
 
 1. **Compute Derivative of the Loss Function:**
 
