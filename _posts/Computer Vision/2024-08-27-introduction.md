@@ -1,5 +1,5 @@
 ---
-title: '3 Introduction'
+title: '3\. Introduction'
 date: 2024-08-27
 permalink: /posts/2024/08/03/introduction/
 tags:
