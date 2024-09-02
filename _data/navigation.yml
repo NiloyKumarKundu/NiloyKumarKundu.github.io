@@ -13,7 +13,7 @@ main:
     url: https://scholar.google.com/citations?user=yoxhTq8AAAAJ&hl=en&oi=sra
 
   - title: "Projects"
-    url: /projects/
+    url: /portfolio/
 
   - title: "Blog Posts"
     url: /year-archive/
