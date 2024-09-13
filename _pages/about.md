@@ -7,58 +7,56 @@ redirect_from:
   - /about.html
 ---
 
-![Right Images](/images\right_image.jpg){: .align-right width="300px"}
+A passionate `Machine Learning Engineer` with a solid academic foundation in `Computer Science and Engineering`. I thrive at the intersection of `Computer Vision`, `Natural Language Processing`, and `cutting-edge AI technologies`. My journey in the world of machine learning has allowed me to work on diverse projects that push the boundaries of what's possible in AI.
 
-👨🏻‍💻 I completed my graduation from United International University in the department of Commputer Science and Engineering.
+💻 Currently, I’m working as a `Junior Machine Learning Engineer` at [Nodes Digital Limited](https://nodesdigitallimited.com), where I design, develop, and deploy machine learning models into production systems. My work spans developing machine learning frameworks, enhancing model accuracy, and deploying systems using cutting-edge technologies like `FastAPI`, `Docker`, and `TensorFlow`.
 
-🔬 My research interests are in Computer Vision and Natural Language Processing.
-
-📚 Currently, I am working as a Junior Machine Learning Engineer at Nodes Digital Limited.
-
-📽️ I am also interested in assisting others on their path in the world of Machine Learning and academia.
+In addition to my professional work, I’m also passionate about `mentoring` and helping others on their journey in `Machine Learning` 💡. I believe in the power of collaboration and love sharing my knowledge to foster growth in the AI community.
 
 
 # 👨🏻‍🔬 Experiences
-#### Junior Machine Learning Engineer
-##### [Nodes Digital Limited](https://nodesdigitallimited.com) [2023-Present]
-- Conducted literature reviews to understand foundational concepts and identify the role of machine
-learning in the project.
-- Collected real-world images and performed manual annotation for computer vision tasks.
-- Performed image preprocessing and data augmentation to enhance the dataset.
+## Junior Machine Learning Engineer
+### [Nodes Digital Limited](https://nodesdigitallimited.com) [2023-Present]
+- `Developed and maintained a scalable Machine Learning CodeBase Framework` for backend systems, integrating various machine learning models into API workflows to ensure streamlined data flow and efficient model deployment.
+- `Implemented FastAPI` for robust API integration, creating a fast, secure, and efficient communication pipeline between machine learning models and system components, enhancing deployment speed by 25%.
+- `Dockerized the entire machine learning environment`, enabling portable and consistent development setups across multiple systems, reducing deployment times by 30%.
+- Designed and organized the `project's file structures using Object-Oriented Programming (OOP) principles`, enhancing code clarity, reusability, and maintenance.
+<!-- - Led efforts in `data pipeline automation, managing real-time data collection, preprocessing, and augmentation for various machine learning tasks. -->
+- Conducted `hyperparameter tuning` using tools such as `GridSearchCV` and `Keras-Tuner`, optimizing model performance for real-world datasets and improving accuracy by 15%.
+- Managed the `full lifecycle of ML models`, from training to deployment, ensuring the models are production-ready, including `monitoring model performance` and adjusting models based on feedback and new data.
+- `Collaborated cross-functionally` with software, IoT, and DevOps teams to ensure seamless integration of machine learning models into broader system architectures.
+
+- `Managed version control` through Git and GitHub, ensuring smooth collaboration and project documentation, facilitating future scalability and enhancement.
+- `Developed predictive models` for the `E-Irrigation` and `E-Fisheries projects`, employing computer vision techniques such as image annotation, preprocessing, and custom model development using `attention mechanisms`.
 
 
 
-#### Research Assistant
-##### [Nodes Digital Limited](https://nodesdigitallimited.com) [2023-2024]
-- Conducted literature reviews to understand foundational concepts and identify the role of machine
-learning in the project.
-- Collected real-world images and performed manual annotation for computer vision tasks.
-- Performed image preprocessing and data augmentation to enhance the dataset.
+## Research Assistant
+### [United International University](https://uiu.ac.bd) [2023-2024]
+- Worked on `NSCLC Subtype Classification`, extracting radiomics features from lung images to classify tumors using machine learning algorithms.
+- Collaborated with international partners, securing funding from the `Institute of Advanced Research` (IAR).
+- Applied `machine learning models` to medical imaging data, contributing to a research paper currently under review.
 
+## Undergraduate Assistant
+### [United International University](https://uiu.ac.bd)
+- Led **lab sessions and classroom discussions**, guiding students through complex topics such as **data structures and algorithms**.
+- Conducted **pre-lab** and **post-lab** sessions to ensure students were prepared for practical exercises.
+- Delivered lectures and managed labs in the absence of professors, ensuring continuity in learning.
+- Provided **academic counseling**, helping students with course-related queries and guiding their progress.
 
-#### Undergraduate Assistant
-##### [United International University](https://uiu.ac.bd)
-- Conducted literature reviews to understand foundational concepts and identify the role of machine
-learning in the project.
-- Collected real-world images and performed manual annotation for computer vision tasks.
-- Performed image preprocessing and data augmentation to enhance the dataset.
+## Grader
+### [United International University](https://uiu.ac.bd)
+- Evaluated student **assignments, quizzes, and exams**, ensuring consistent grading according to rubrics.
+- Provided detailed **feedback** on assignments, helping students improve their academic performance.
+- Maintained accurate **grade records** and assisted in developing **exam questions** to align with course objectives.
 
-
-#### Grader
-##### [United International University](https://uiu.ac.bd)
-- Conducted literature reviews to understand foundational concepts and identify the role of machine
-learning in the project.
-- Collected real-world images and performed manual annotation for computer vision tasks.
-- Performed image preprocessing and data augmentation to enhance the dataset.
-
-
-#### Instructor
-##### [UIU App Forum](https://uiu.ac.bd)
-- Conducted literature reviews to understand foundational concepts and identify the role of machine
-learning in the project.
-- Collected real-world images and performed manual annotation for computer vision tasks.
-- Performed image preprocessing and data augmentation to enhance the dataset.
-
+## Instructor
+### [UIU App Forum](https://uiu.ac.bd)
+- Conducted **three full sessions of C Programming** classes titled **"Programming for Beginners"**, aimed at newly admitted junior students.
+- Taught over **150+ students** through an **online platform**, covering fundamental concepts in C programming, ensuring a solid foundation for future coursework.
+- Organized and managed **assignments** to reinforce learning and applied practical coding exercises to track student progress.
+- Hosted a **Project Show** under a seminar, where over **100+ students** presented their projects, showcasing what they had learned in the course.
+- Provided individual feedback and mentorship throughout the course, ensuring students gained both theoretical and practical skills in programming.
 
 <!-- 
 This is the front page of a website that is powered by the [Academic Pages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io).
