@@ -12,8 +12,11 @@ main:
   - title: "Publications"
     url: https://scholar.google.com/citations?user=yoxhTq8AAAAJ&hl=en&oi=sra
 
-  - title: "Projects"
+  - title: "Portfolio"
     url: /portfolio/
+
+  - title: "Projects"
+    url: /projects/
   
   - title: "Experiences"
     url: /experiences/
