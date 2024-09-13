@@ -7,19 +7,24 @@
 main:
   - title: "Experiences"
     url: /experiences/
+    open_in_new_tab: false
 
   - title: "Publications"
-    url: https://scholar.google.com/citations?user=yoxhTq8AAAAJ&hl=en&oi=sra {target="_blank"}
+    url: https://scholar.google.com/citations?user=yoxhTq8AAAAJ&hl=en&oi=sra
+    open_in_new_tab: true
 
   - title: "Projects"
     url: /projects/
+    open_in_new_tab: false
   
   - title: "CV"
     # url: /cv/
     url: /files/NiloyKumarKundu.pdf
+    open_in_new_tab: true
 
   - title: "Blog Posts"
     url: /year-archive/
+    open_in_new_tab: false
     
   # - title: "Portfolio"
   #   url: /portfolio/
