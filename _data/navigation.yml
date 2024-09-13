@@ -10,6 +10,7 @@ main:
 
   - title: "Publications"
     url: https://scholar.google.com/citations?user=yoxhTq8AAAAJ&hl=en&oi=sra
+    open_in_new_tab: true
 
   - title: "Projects"
     url: /projects/
