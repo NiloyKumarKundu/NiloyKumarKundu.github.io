@@ -5,27 +5,28 @@
 # prevent it from being included in the site.
 
 main:
-  - title: "CV"
-    # url: /cv/
-    url: /files/NiloyKumarKundu.pdf
+  - title: "Experiences"
+    url: /experiences/
 
   - title: "Publications"
     url: https://scholar.google.com/citations?user=yoxhTq8AAAAJ&hl=en&oi=sra
 
-  - title: "Portfolio"
-    url: /portfolio/
-
   - title: "Projects"
     url: /projects/
   
-  - title: "Experiences"
-    url: /experiences/
+  - title: "CV"
+    # url: /cv/
+    url: /files/NiloyKumarKundu.pdf
 
   - title: "Blog Posts"
     url: /year-archive/
+    
+  # - title: "Portfolio"
+  #   url: /portfolio/
+
 
   # - title: "Talks"
-  #   url: /talks/    
+  #   url: /talks/   
 
   # - title: "Teaching"
   #   url: /teaching/    
