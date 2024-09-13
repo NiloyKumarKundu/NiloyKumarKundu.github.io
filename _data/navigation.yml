@@ -9,7 +9,7 @@ main:
     url: /experiences/
 
   - title: "Publications"
-    url: https://scholar.google.com/citations?user=yoxhTq8AAAAJ&hl=en&oi=sra{:target='_blank'}
+    url: https://scholar.google.com/citations?user=yoxhTq8AAAAJ&hl=en&oi=sra
 
   - title: "Projects"
     url: /projects/
