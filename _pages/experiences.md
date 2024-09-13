@@ -18,7 +18,7 @@ author_profile: true
 
 
 
-## Research Assistant, [United International University](https://uiu.ac.bd) [2023-2024]
+## Research Assistant, [Institute for Advanced Research](https://iar.uiu.ac.bd/) [2023-2024]
 - Worked on **NSCLC Subtype Classification**, extracting radiomics features from lung images to classify tumors using machine learning algorithms.
 - Collaborated with international partners, securing funding from the **Institute of Advanced Research** (IAR).
 - Applied **machine learning models** to medical imaging data, contributing to a research paper currently under review.
@@ -34,7 +34,7 @@ author_profile: true
 - Provided detailed **feedback** on assignments, helping students improve their academic performance.
 - Maintained accurate **grade records** and assisted in developing **exam questions** to align with course objectives.
 
-## Instructor, [UIU App Forum](https://uiu.ac.bd)
+## Instructor, [UIU App Forum](https://www.facebook.com/uiuappf)
 - Conducted **three full sessions of C Programming** classes titled **"Programming for Beginners"**, aimed at newly admitted junior students.
 - Taught over **150+ students** through an **online platform**, covering fundamental concepts in C programming, ensuring a solid foundation for future coursework.
 - Organized and managed **assignments** to reinforce learning and applied practical coding exercises to track student progress.
