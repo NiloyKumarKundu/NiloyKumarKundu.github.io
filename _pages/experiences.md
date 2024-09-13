@@ -5,8 +5,7 @@ author_profile: true
 ---
 
 
-## 👨🏻‍🔬 Experiences
-### Junior Machine Learning Engineer, [Nodes Digital Limited](https://nodesdigitallimited.com) [2023-Present]
+## Junior Machine Learning Engineer, [Nodes Digital Limited](https://nodesdigitallimited.com) [2023-Present]
 - **Developed and maintained a scalable Machine Learning CodeBase Framework** for backend systems, integrating various machine learning models into API workflows to ensure streamlined data flow and efficient model deployment.
 - **Implemented FastAPI** for robust API integration, creating a fast, secure, and efficient communication pipeline between machine learning models and system components, enhancing deployment speed by 25%.
 - **Dockerized the entire machine learning environment**, enabling portable and consistent development setups across multiple systems, reducing deployment times by 30%.
@@ -19,7 +18,7 @@ author_profile: true
 
 
 
-### Research Assistant, [United International University](https://uiu.ac.bd) [2023-2024]
+## Research Assistant, [United International University](https://uiu.ac.bd) [2023-2024]
 - Worked on **NSCLC Subtype Classification**, extracting radiomics features from lung images to classify tumors using machine learning algorithms.
 - Collaborated with international partners, securing funding from the **Institute of Advanced Research** (IAR).
 - Applied **machine learning models** to medical imaging data, contributing to a research paper currently under review.
@@ -30,12 +29,12 @@ author_profile: true
 - Delivered lectures and managed labs in the absence of professors, ensuring continuity in learning.
 - Provided **academic counseling**, helping students with course-related queries and guiding their progress.
 
-### Grader, [United International University](https://uiu.ac.bd)
+## Grader, [United International University](https://uiu.ac.bd)
 - Evaluated student **assignments, quizzes, and exams**, ensuring consistent grading according to rubrics.
 - Provided detailed **feedback** on assignments, helping students improve their academic performance.
 - Maintained accurate **grade records** and assisted in developing **exam questions** to align with course objectives.
 
-### Instructor, [UIU App Forum](https://uiu.ac.bd)
+## Instructor, [UIU App Forum](https://uiu.ac.bd)
 - Conducted **three full sessions of C Programming** classes titled **"Programming for Beginners"**, aimed at newly admitted junior students.
 - Taught over **150+ students** through an **online platform**, covering fundamental concepts in C programming, ensuring a solid foundation for future coursework.
 - Organized and managed **assignments** to reinforce learning and applied practical coding exercises to track student progress.
