@@ -7,16 +7,15 @@ redirect_from:
   - /about.html
 ---
 
-A passionate **Machine Learning Engineer** with a solid academic foundation in **Computer Science and Engineering**. I thrive at the intersection of **Computer Vision**, **Natural Language Processing**, and **cutting-edge AI technologies**. My journey in the world of machine learning has allowed me to work on diverse projects that push the boundaries of what's possible in AI.
+🌟 A passionate **Machine Learning Engineer** with a solid academic foundation in **Computer Science and Engineering**. I thrive at the intersection of **Computer Vision**, **Natural Language Processing**, and **cutting-edge AI technologies**. My journey in the world of machine learning has allowed me to work on diverse projects that push the boundaries of what's possible in AI.
 
 💻 Currently, I’m working as a **Junior Machine Learning Engineer** at [Nodes Digital Limited](https://nodesdigitallimited.com), where I design, develop, and deploy machine learning models into production systems. My work spans developing machine learning frameworks, enhancing model accuracy, and deploying systems using cutting-edge technologies like **FastAPI**, **Docker**, and **TensorFlow**.
 
-In addition to my professional work, I’m also passionate about **mentoring** and helping others on their journey in **Machine Learning** 💡. I believe in the power of collaboration and love sharing my knowledge to foster growth in the AI community.
+🌱 In addition to my professional work, I’m also passionate about **mentoring** and helping others on their journey in **Machine Learning** 💡. I believe in the power of collaboration and love sharing my knowledge to foster growth in the AI community.
 
 
 ## 👨🏻‍🔬 Experiences
-### Junior Machine Learning Engineer
-#### [Nodes Digital Limited](https://nodesdigitallimited.com) [2023-Present]
+### Junior Machine Learning Engineer, [Nodes Digital Limited](https://nodesdigitallimited.com) [2023-Present]
 - **Developed and maintained a scalable Machine Learning CodeBase Framework** for backend systems, integrating various machine learning models into API workflows to ensure streamlined data flow and efficient model deployment.
 - **Implemented FastAPI** for robust API integration, creating a fast, secure, and efficient communication pipeline between machine learning models and system components, enhancing deployment speed by 25%.
 - **Dockerized the entire machine learning environment**, enabling portable and consistent development setups across multiple systems, reducing deployment times by 30%.
@@ -29,27 +28,23 @@ In addition to my professional work, I’m also passionate about **mentoring** a
 
 
 
-## Research Assistant
-### [United International University](https://uiu.ac.bd) [2023-2024]
+### Research Assistant, [United International University](https://uiu.ac.bd) [2023-2024]
 - Worked on **NSCLC Subtype Classification**, extracting radiomics features from lung images to classify tumors using machine learning algorithms.
 - Collaborated with international partners, securing funding from the **Institute of Advanced Research** (IAR).
 - Applied **machine learning models** to medical imaging data, contributing to a research paper currently under review.
 
-## Undergraduate Assistant
-### [United International University](https://uiu.ac.bd)
+## Undergraduate Assistant, [United International University](https://uiu.ac.bd)
 - Led **lab sessions and classroom discussions**, guiding students through complex topics such as **data structures and algorithms**.
 - Conducted **pre-lab** and **post-lab** sessions to ensure students were prepared for practical exercises.
 - Delivered lectures and managed labs in the absence of professors, ensuring continuity in learning.
 - Provided **academic counseling**, helping students with course-related queries and guiding their progress.
 
-## Grader
-### [United International University](https://uiu.ac.bd)
+### Grader, [United International University](https://uiu.ac.bd)
 - Evaluated student **assignments, quizzes, and exams**, ensuring consistent grading according to rubrics.
 - Provided detailed **feedback** on assignments, helping students improve their academic performance.
 - Maintained accurate **grade records** and assisted in developing **exam questions** to align with course objectives.
 
-## Instructor
-### [UIU App Forum](https://uiu.ac.bd)
+### Instructor, [UIU App Forum](https://uiu.ac.bd)
 - Conducted **three full sessions of C Programming** classes titled **"Programming for Beginners"**, aimed at newly admitted junior students.
 - Taught over **150+ students** through an **online platform**, covering fundamental concepts in C programming, ensuring a solid foundation for future coursework.
 - Organized and managed **assignments** to reinforce learning and applied practical coding exercises to track student progress.
