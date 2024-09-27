@@ -39,18 +39,18 @@ Now, let’s examine the case of multiplying a vector by a matrix.
 
 Suppose we have:
 
-* Vector  \\[\mathbf{a} = [1, 2, 3]\\]
+* Vector  \\( \mathbf{a} = [1, 2, 3] \\)
 
-* Matrix \\[
+* Matrix \\(
 \mathbf{b} = 
 \begin{bmatrix}
 4 & 7 & 10 \\
 5 & 8 & 11 \\
 6 & 9 & 12 
 \end{bmatrix}
-\\]
+\\)
 
-Here, the shape of vector \(\mathbf{a}\) is (1, 3), while the shape of matrix \(\mathbf{b}\) is (3, 3).
+Here, the shape of vector \\(\mathbf{a}\\) is (1, 3), while the shape of matrix \\(\mathbf{b}\\) is (3, 3).
 
 When we perform:
 
@@ -58,7 +58,7 @@ $$
 \text{np.dot}(\mathbf{a}, \mathbf{b})
 $$
 
-the operation is valid because the number of columns in \(\mathbf{a}\) matches the number of rows in \(\mathbf{b}\). The output will have the shape (1, 3) since it takes the rows from the first matrix and columns from the second matrix. The calculation can be described as:
+the operation is valid because the number of columns in \\(\mathbf{a}\\) matches the number of rows in \\(\mathbf{b}\\). The output will have the shape (1, 3) since it takes the rows from the first matrix and columns from the second matrix. The calculation can be described as:
 
 $$
 \text{np.dot}(\mathbf{a}, \mathbf{b}) = [1 \cdot 4 + 2 \cdot 7 + 3 \cdot 10, \ 1 \cdot 5 + 2 \cdot 8 + 3 \cdot 11, \ 1 \cdot 6 + 2 \cdot 9 + 3 \cdot 12]
@@ -76,7 +76,7 @@ $$
 \text{np.dot}(\mathbf{b}, \mathbf{a})
 $$
 
-would require us to represent vector \(\mathbf{a}\) in a column format. Thus, we convert \(\mathbf{a}\) to:
+would require us to represent vector \\(\mathbf{a}\\) in a column format. Thus, we convert \\(\mathbf{a}\\) to:
 
 $$
 \mathbf{a'} = 
@@ -87,7 +87,7 @@ $$
 \end{bmatrix}
 $$
 
-Now, the multiplication is valid because \(\mathbf{b}\) is (3, 3) and \(\mathbf{a'}\) is (3, 1). The operation now computes:
+Now, the multiplication is valid because \\(\mathbf{b}\\) is (3, 3) and \\(\mathbf{a'}\\) is (3, 1). The operation now computes:
 
 $$
 \text{np.dot}(\mathbf{b}, \mathbf{a'}) = 
@@ -126,24 +126,22 @@ Lastly, let’s discuss the multiplication of two matrices.
 
 Consider:
 
-* Matrix \\[\mathbf{a} = 
+* Matrix \\( \mathbf{a} = 
 \begin{bmatrix}
 a_{11} & a_{12} & a_{13} \\
 a_{21} & a_{22} & a_{23} \\
 a_{31} & a_{32} & a_{33}
-\end{bmatrix}
-\\]
+\end{bmatrix} \\)
 
 \\
-* Matrix \\[\mathbf{b} = 
+* Matrix \\( \mathbf{b} = 
 \begin{bmatrix}
 b_{11} & b_{12} & b_{13} \\
 b_{21} & b_{22} & b_{23} \\
 b_{31} & b_{32} & b_{33}
-\end{bmatrix}
-\\]
+\end{bmatrix} \\)
 
-The multiplication $\text{np.dot}(\mathbf{a}, \mathbf{b})$ is possible if the number of columns in \(\mathbf{a}\) equals the number of rows in \(\mathbf{b}\). The output matrix will have the shape defined by the rows of \(\mathbf{a}\) and columns of \(\mathbf{b}\). For instance:
+The multiplication \\( \text{np.dot}(\mathbf{a}, \mathbf{b}) \\) is possible if the number of columns in \\(\mathbf{a}\\) equals the number of rows in \\(\mathbf{b}\\). The output matrix will have the shape defined by the rows of \\(\mathbf{a}\\) and columns of \\(\mathbf{b}\\). For instance:
 
 $$
 \text{np.dot}(\mathbf{a}, \mathbf{b}) = 
