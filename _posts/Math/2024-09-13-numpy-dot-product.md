@@ -1,6 +1,6 @@
 ---
 title: 'Understanding Matrix Multiplication with NumPy'
-date: 2024-08-25
+date: 2024-09-27
 permalink: /posts/2024/09/numpy-dot-product/
 tags:
   - Math
