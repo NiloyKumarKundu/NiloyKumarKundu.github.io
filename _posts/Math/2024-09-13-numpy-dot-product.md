@@ -39,16 +39,16 @@ Now, let’s examine the case of multiplying a vector by a matrix.
 
 Suppose we have:
 
-* Vector  $\mathbf{a} = [1, 2, 3]$
+* Vector  \\[\mathbf{a} = [1, 2, 3]\\]
 
-* Matrix $
+* Matrix \\[
 \mathbf{b} = 
 \begin{bmatrix}
 4 & 7 & 10 \\
 5 & 8 & 11 \\
 6 & 9 & 12 
 \end{bmatrix}
-$
+\\]
 
 Here, the shape of vector \(\mathbf{a}\) is (1, 3), while the shape of matrix \(\mathbf{b}\) is (3, 3).
 
@@ -126,23 +126,22 @@ Lastly, let’s discuss the multiplication of two matrices.
 
 Consider:
 
-* Matrix $\mathbf{a} = 
+* Matrix \\[\mathbf{a} = 
 \begin{bmatrix}
 a_{11} & a_{12} & a_{13} \\
 a_{21} & a_{22} & a_{23} \\
 a_{31} & a_{32} & a_{33}
 \end{bmatrix}
-$
+\\]
 
 \\
-* Matrix $
-\mathbf{b} = 
+* Matrix \\[\mathbf{b} = 
 \begin{bmatrix}
 b_{11} & b_{12} & b_{13} \\
 b_{21} & b_{22} & b_{23} \\
 b_{31} & b_{32} & b_{33}
 \end{bmatrix}
-$
+\\]
 
 The multiplication $\text{np.dot}(\mathbf{a}, \mathbf{b})$ is possible if the number of columns in \(\mathbf{a}\) equals the number of rows in \(\mathbf{b}\). The output matrix will have the shape defined by the rows of \(\mathbf{a}\) and columns of \(\mathbf{b}\). For instance:
 
