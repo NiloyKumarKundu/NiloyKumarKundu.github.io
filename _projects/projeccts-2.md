@@ -1,6 +1,7 @@
 ---
-title: "NDL Research Bot"
-excerpt: "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
+title: "NDL Research BOT"
+# excerpt: "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
+excerpt: "An AI-powered tool that processes and analyzes uploaded research papers in PDF format. Using a custom-built Large Language Model (LLM), the bot extracts key insights, providing quick summaries and answers to specific questions, saving time and enhancing research efficiency in our agriculture startup."
 collection: projects
 ---
 
