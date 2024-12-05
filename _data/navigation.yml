@@ -13,23 +13,22 @@ main:
 
   - title: "Projects"
     url: /projects/
-  
+
   - title: "CV"
     # url: /cv/
     url: /files/NiloyKumarKundu.pdf
 
   - title: "Blog Posts"
-    url: /year-archive/
-    
+    url: /blogs/
+
   # - title: "Portfolio"
   #   url: /portfolio/
 
-
   # - title: "Talks"
-  #   url: /talks/   
+  #   url: /talks/
 
   # - title: "Teaching"
-  #   url: /teaching/    
+  #   url: /teaching/
 
   # - title: "Guide"
   #   url: /markdown/
