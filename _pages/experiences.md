@@ -4,7 +4,6 @@ title: "👨🏻‍🔬 Experiences"
 author_profile: true
 ---
 
-
 ## Junior Machine Learning Engineer, [Nodes Digital Limited](https://nodesdigitallimited.com) [2023-Present]
 
 <ol style="line-height: 1.4;">
@@ -44,19 +43,15 @@ author_profile: true
   </li>
 </ol>
 
-
-
 ## Research Assistant, [Institute for Advanced Research](https://iar.uiu.ac.bd/) [2023-2024]
 
 <ul style="font-size: 13pt; line-height: 1.2;">
   <li>Worked on <strong>NSCLC Subtype Classification</strong>, extracting radiomics features from lung images to classify tumors using machine learning algorithms.</li>
   <li>Collaborated with international partners, securing funding from the <strong>Institute of Advanced Research</strong> (IAR).</li>
-  <li>Applied <strong>machine learning models</strong> to medical imaging data, contributing to a research paper currently under review.</li>
 </ul>
 
-
-
 ## Undergraduate Assistant, [United International University](https://uiu.ac.bd)
+
 <ul style="font-size: 13pt; line-height: 1.2;">
   <li>Led <strong>lab sessions and classroom discussions</strong>, guiding students through complex topics such as <strong>data structures and algorithms</strong>.</li>
   <li>Conducted <strong>pre-lab</strong> and <strong>post-lab</strong> sessions to ensure students were prepared for practical exercises.</li>
@@ -65,14 +60,15 @@ author_profile: true
 </ul>
 
 ## Grader, [United International University](https://uiu.ac.bd)
+
 <ul style="font-size: 13pt; line-height: 1.2;">
   <li>Evaluated student <strong>assignments, quizzes, and exams</strong>, ensuring consistent grading according to rubrics.</li>
   <li>Provided detailed <strong>feedback</strong> on assignments, helping students improve their academic performance.</li>
   <li>Maintained accurate <strong>grade records</strong> and assisted in developing **exam questions** to align with course objectives.</li>
 </ul>
 
-
 ## Instructor, [UIU App Forum](https://www.facebook.com/uiuappf)
+
 <ul style="font-size: 13pt; line-height: 1.2;">
   <li>Conducted <strong>three full sessions of C Programming</strong> classes titled <strong>Programming for Beginners</strong>, aimed at newly admitted junior students.</li>
   <li>Taught over <strong>150+ students</strong> through an <strong>online platform</strong>, covering fundamental concepts in C programming, ensuring a solid foundation for future coursework.</li>
@@ -80,4 +76,3 @@ author_profile: true
   <li>Hosted a <strong>Project Show</strong> under a seminar, where over <strong>100+ students</strong> presented their projects, showcasing what they had learned in the course. </li>
   <li>Provided individual feedback and mentorship throughout the course, ensuring students gained both theoretical and practical skills in programming.</li>
 </ul>
-
