@@ -41,7 +41,7 @@ site.author %} {% endif %}
       </li>
       {% endif %} {% if author.uri %}
       <li>
-        <a href="{{ author.uri }}" _target="_blank"
+        <a href="{{ author.uri }}" target="_blank"
           ><i class="fas fa-fw fa-link icon-pad-right" aria-hidden="true"></i>{{
           site.data.ui-text[site.locale].website_label | default: "Website"
           }}</a
