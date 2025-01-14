@@ -11,7 +11,7 @@ I’m a **Machine Learning Engineer** driven by a deep passion for solving compl
 
 ## 💻 What I Do
 
-I currently work at **[Nodes Digital Limited](https://nodesdigitallimited.com)**, where I design, develop, and deploy state-of-the-art AI systems. Here’s how I contribute:
+I currently work at **[Nodes Digital Limited](https://nodesdigitalbd.com)**, where I design, develop, and deploy state-of-the-art AI systems. Here’s how I contribute:
 
 - **AI Development**: I build and deploy **machine learning models** using **Streamlit**, **FastAPI**, **Docker**, **TensorFlow**, and **PyTorch**, ensuring they work seamlessly in real-world production environments.
 - **Generative AI**: I craft powerful **chatbots** and **LLM-based solutions** that understand and generate human-like responses. Tools like **LangChain**, **LangGraph**, and **Ollama** are at the core of my work, making AI interactions smarter and more intuitive.
